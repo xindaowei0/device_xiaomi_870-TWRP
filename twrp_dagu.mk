@@ -14,7 +14,7 @@ $(call inherit-product, $(DEVICE_PATH)/device.mk)
 PRODUCT_RELEASE_NAME := alioth
 
 # Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := elish
+PRODUCT_DEVICE := alioth
 PRODUCT_NAME := twrp_dagu
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := Xiaomi Pad 5 Pro 12.4
