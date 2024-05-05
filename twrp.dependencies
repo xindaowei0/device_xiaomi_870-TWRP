@@ -12,4 +12,15 @@
     "target_path": "device/qcom/twrp-common",
     "branch": "android-12.1"
   }
+
+
+  {
+    "remote": "github",
+    "repository": "https://github.com/AndroidBlobs/kernel_xiaomi_dagu",
+    "target_path": "kernel/xiaomi/dagu",
+    "branch": "split-for-rebase"
+  }
+
+
+
 ]
